@@ -79,7 +79,7 @@ caída de voltaje.
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
-![image](https://user-images.githubusercontent.com/116821649/207736084-bbee3614-d1c2-46fa-a95b-ee8655dcebce.png)
+![image](https://user-images.githubusercontent.com/116821649/207994079-3cf9aa56-e0bd-48c0-952f-e7a3207e227b.png)
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
@@ -110,7 +110,26 @@ RAD, RAE, RAF, y RAG).
 
 ![image](https://user-images.githubusercontent.com/116821649/207757250-8be3192e-fa79-4c8f-944d-8e7ceb19e96e.png)
 
+30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de  salida. Con una carga de 33 kΩ, ¿Cuál es la corriente extraída?
 
+![image](https://user-images.githubusercontent.com/116821649/207995102-af683989-7f7f-40b9-b994-3d7176657b82.png)
+
+32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje
+en cada toma (V1, V2 y V3) para cada posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/116821649/207998721-63fa07ba-df48-4f65-be19-9a73a48e2ba6.png)
+
+34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los extremos de una carga de 1.0 kΩ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no debe exceder de 100 mA.
+
+![image](https://user-images.githubusercontent.com/116821649/207999737-65a27450-72ad-494b-a930-227dab77164d.png)
+
+36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.
+
+
+
+* CAPITULO 8
+
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
 
 * Video
