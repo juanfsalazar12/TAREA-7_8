@@ -35,6 +35,18 @@ Objetivos Especificos
 
 ![MAPA 4_I4](https://user-images.githubusercontent.com/116821649/207508765-12429eac-cda2-4dfb-9010-5377ea597d6d.png)
 
+8. TEOREMAS DE CIRCUITOS Y CONVERSIONES 
+
+![MAPA 5_I4](https://user-images.githubusercontent.com/116821649/208431626-a3110a19-6285-4a97-9a08-b9bb3a0e1187.png)
+
+![MAPA 6_ I4](https://user-images.githubusercontent.com/116821649/208450427-72d868de-2d88-4250-af91-ae3878c543c7.png)
+
+![MAPA 7_I4](https://user-images.githubusercontent.com/116821649/208462876-a4f6db4c-c6f3-450b-85ac-0713a391bde1.png)
+
+![MAPA 8_I4](https://user-images.githubusercontent.com/116821649/208463838-ca2e112d-8bae-4d88-a130-b7f86e5460d6.png)
+
+
+
 Resolucion de ejercicios del libro de Floyd
 
 * CAPITULO 7
