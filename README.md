@@ -47,6 +47,12 @@ Objetivos Especificos
 
 ![MAPA 9_I4](https://user-images.githubusercontent.com/116821649/208652149-4de73b06-7b71-4754-8a3b-908a2c209768.png)
 
+![MAPA 10_I4](https://user-images.githubusercontent.com/116821649/208791749-17be0cf7-55cd-40a2-81a6-17f04ddc2d27.png)
+
+![image](https://user-images.githubusercontent.com/116821649/208791784-c6581c28-bb51-40f4-b4ba-c6e5d277319a.png)
+
+![MAPA 11_I4](https://user-images.githubusercontent.com/116821649/208793535-6371b858-438b-4024-9c86-920e715db709.png)
+
 
 
 Resolucion de ejercicios del libro de Floyd
