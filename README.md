@@ -145,6 +145,28 @@ en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Ω/V en cada uno de los siguientes ajustes de intervalo.
 
+![image](https://user-images.githubusercontent.com/116821649/209026327-e7aae291-b6b9-4569-afcd-3486af6d4f76.png)
+
+38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/116821649/209027432-af618e64-5368-4fff-9b9a-1ceb86a47519.png)
+
+40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
+![image](https://user-images.githubusercontent.com/116821649/209028588-1ef90586-2b61-45db-a803-41a55f3e26c1.png)
+
+42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
+
+![image](https://user-images.githubusercontent.com/116821649/209029121-84a0b44f-b227-4c54-a4cc-84eef4f5dee5.png)
+
+44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
+(a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra.
+
+![image](https://user-images.githubusercontent.com/116821649/209029699-edc99f22-d24e-44ad-95c2-8db55f76b695.png)
+
+46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV=18 kΩ y R2/R4=0.02. ¿Cuál es RX?
+
+![image](https://user-images.githubusercontent.com/116821649/209030172-bc7a3d11-a172-4007-b686-0681c1d2945f.png)
 
 
 * CAPITULO 8
